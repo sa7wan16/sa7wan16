@@ -9,4 +9,4 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-Driven by a strong foundation in computer science and a growing passion for cybersecurity, I am seeking to contribute to and learn from an entry-level role within the cybersecurity domain. My focus is on developing skills in threat detection, incident response, and security operations.
+With a strong foundation in computer science and a growing passion for cybersecurity, I am focused on expanding my knowledge and expertise in areas like threat detection, incident response, and security operations. I am driven by a commitment to solving complex cybersecurity challenges and contributing to the protection of critical systems.
