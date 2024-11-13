@@ -9,4 +9,4 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-With a strong foundation in computer science and a growing passion for cybersecurity, I am focused on expanding my knowledge and expertise in areas like threat detection, incident response, and security operations. I am driven by a commitment to solving complex cybersecurity challenges and contributing to the protection of critical systems.
+I'm a BCA graduate with a strong foundation in technology. I've completed Google's data analytics and cybersecurity certifications, which have equipped me with practical skills in data analysis and network security. I'm eager to apply my knowledge in an entry-level role and contribute to a team that values data-driven decision-making and robust cybersecurity practices.
