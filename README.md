@@ -9,4 +9,4 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-I'm a BCA graduate with a strong foundation in technology. I've completed Google's data analytics and cybersecurity certifications, which have equipped me with practical skills in data analysis and network security. I'm eager to apply my knowledge in an entry-level role and contribute to a team that values data-driven decision-making and robust cybersecurity practices.
+With a solid foundation in technology and hands-on experience from Google’s data analytics and cybersecurity certifications, I bring practical skills in data analysis and cyber security. I'm eager to contribute to a team that values data-driven decision-making and prioritizes strong cybersecurity practices, aiming to support and enhance organizational resilience and insights.
